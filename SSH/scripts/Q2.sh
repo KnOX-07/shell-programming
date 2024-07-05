@@ -18,7 +18,7 @@ if [ "$total" -ge 480 ]; then
     echo "Outstanding"
 elif [ "$total" -ge 450 ] && [ "$total" -lt 480 ]; then
     echo "Excellent"
-elif [ "$total" -ge 420 ] && ["$total" -lt 450 ]; then
+elif [ "$total" -ge 420 ] && [ "$total" -lt 450 ]; then
     echo "Good"
 elif [ "$total" -ge 400 ] && [ "$total" -lt 420 ]; then
     echo "Average"
