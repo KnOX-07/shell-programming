@@ -1,4 +1,4 @@
-#! /bin/bash
+#! /bin/sh
 
 echo -n "Enter the marks for Physics: "
 read phy
